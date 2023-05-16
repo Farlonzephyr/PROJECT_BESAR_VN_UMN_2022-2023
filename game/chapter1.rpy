@@ -148,7 +148,7 @@ label chapter1:
 
     #scene CG_chapter1_3 with Fate(0.0, 1, 1.0)
     
-    Alexander "Wah, a[a itu tadi!?"
+    Alexander "Wah, apa itu tadi!?"
 
     Alexander "…Kupikir ada burung yang menabrak jendela."
 
